@@ -233,7 +233,7 @@ REPOSITORY              TAG                 IMAGE ID            CREATED         
 mysql                   5.7                 f6509bac4980        3 months ago        373MB
 ```
 
-通过 IMAGE ID  或者 REPOSITORY 名字即可删除
+通过 IMAGE ID  或者 REPOSITORY 名字即可删
 
 ```shell
 docker rmi f6509bac4980 #  或者 docker rmi mysql 
